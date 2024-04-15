@@ -67,3 +67,9 @@
   3. Il sistema verifica la disponibilità ed aggiorna il database.
   4. Il sistema conferma l'operazione avvenuta con successo o segnala un errore.
 
+
+
+  ## DIAGRAMMA:
+
+  ![UML-Tech-Academy](java-uml-academy.drawio.png)
+
