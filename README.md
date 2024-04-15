@@ -50,8 +50,8 @@
 
 ## UC5: Iscrizione di studenti al corso
 - **Attore principale**: Admin
-- **Precondizioni**: Il corso e lo studente devono essere già presenti nel sistema.
-- **Flusso principale**:
+- **Condizione**: Il corso e lo studente devono essere già presenti nel sistema.
+- **Descrizione**:
   1. L’admin accede alla sezione di gestione degli studenti.
   2. L’admin seleziona lo studente che ha fatto domanda di iscrizione.
   3. L’admin seleziona il corso cui lo studente si è iscritto.
